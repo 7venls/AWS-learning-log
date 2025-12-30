@@ -1,6 +1,6 @@
 # CloudTrail（操作ログ）
 
-### CloudTrail とは？
+## CloudTrail とは？
 
 「誰が・いつ・何をしたか」を記録する操作ログ。
 
@@ -20,7 +20,7 @@
 
 ⇒ これは CloudTrailの仕事じゃない。
 
-### CloudTrailは操作ログ（監査ログ）
+## CloudTrailは操作ログ（監査ログ）
 
 ・AWS上で実行された すべてのAPI操作を記録する仕組み。
 
